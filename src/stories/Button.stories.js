@@ -42,3 +42,10 @@ LongLabel.args = {
   label: "Press Me adsf asdf asdf asdfasdfasd fasd fasd fasd",
   size: "md",
 }
+
+export const SmallBlue = Template.bind({})
+SmallBlue.args={
+    label: "Prueba de lexfer",
+    backgroundColor:"blue",
+    size:"sm"
+}
